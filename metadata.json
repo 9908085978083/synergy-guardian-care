@@ -1,0 +1,8 @@
+{
+  "name": "Synergy Guardian Care",
+  "description": "Multi-generational home care offering stay-in nannies, childcare support, stay-in caregivers, elderly care, disability assistance, and wellness monitoring across Johannesburg and Pretoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
